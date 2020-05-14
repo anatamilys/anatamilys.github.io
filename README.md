@@ -1,6 +1,6 @@
 # [Tamilys Ripardo - Site Pessoal](https://anatamilys.github.io/)
 
-a
+Esse projeto de apresentação pessoal utiliza um modelo pronto de Bootstrap, utilizando as tecnologias HTML e CSS. 
 ## Preview
 
 
